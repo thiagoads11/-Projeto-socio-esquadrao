@@ -6,10 +6,9 @@
     
 }
 body{
-    border: 1px solid green;
     text-align: center;
     padding-top: 200px;
-    padding-right: 60px;
+    padding-right: 40px;
     background-image: url(./imagens/bahia-fundo-socio.jpg);
     background-repeat: no-repeat;
     background-size: cover;
