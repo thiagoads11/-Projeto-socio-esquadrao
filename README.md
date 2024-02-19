@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Bahia </h1>
+<h1 align="center"> Projeto Esporte Clube Bahia </h1>
 
 <p align="center">
 Projeto feito por Thiago Menezes, baseado no projeto promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -16,7 +16,7 @@ Projeto feito por Thiago Menezes, baseado no projeto promovido pela Rocketseat p
 <br>
 
 <p align="center">
-  <img alt="Projeto seja socio do Bahia" src=".github/Projeto-bahia-preview.jpg" width="100%">
+  <img alt="Projeto seja socio do Esporte Clube Bahia" src=".github/Projeto-bahia-preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-  O projeto é para ser ultilizado como marketing para influenciar as pessoas a ser sócio do Bahia.
+  O projeto é para ser ultilizado como marketing para influenciar as pessoas a ser sócio do Esporte Clube Bahia.
 
 ---
 
